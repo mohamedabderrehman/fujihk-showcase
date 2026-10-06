@@ -1,0 +1,30 @@
+[
+  {
+    "path": "docs/images/00-home.jpg",
+    "sha256": "a47170fdd1ce82637605246e7dc04158a7c8350e879cdeb5c18abd9345027fc9",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://fujihk.net/"
+  },
+  {
+    "path": "docs/images/account-access.jpg",
+    "sha256": "edf4c36446a5d18ad9c4e91a944eac101d0f1a3425a719837fa3af002cdf4df1",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://fujihk.net/"
+  },
+  {
+    "path": "docs/images/catalogue.jpg",
+    "sha256": "3c4d651275bd5db213ef81c861ca336c6a55266251e7c5823885584c374519bc",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://fujihk.net/"
+  },
+  {
+    "path": "docs/images/product-detail.jpg",
+    "sha256": "377098210ac198afef2fc232dd8abbcc43290c2056592b619fc21f51541c15ea",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://fujihk.net/"
+  }
+]
