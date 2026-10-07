@@ -1,13 +1,11 @@
 # FUJI Group — Fujihk
 
-## An engineering catalogue that continues into business workflows
+## Bringing engineering products and business workflows together
 
-FUJI Group brings product discovery and company information into one public experience. Visitors move from categories to a searchable catalogue, then into individual product pages with imagery, descriptions, quantity controls and related products. The interface includes transport, energy and automation categories rather than a single-product landing page.
+I built Fujihk as a dynamic business website for FUJI Group. The product catalogue is central to the experience: visitors can search, filter by category, sort by price and open detailed product pages with quantities and related items. Company information, projects and operational navigation sit alongside the catalogue.
 
-The project connects its presentation to account entry and operational navigation. Inquiry, inspection and logistics are visible in the site navigation; the reviewed inquiry route required login. This distinction makes the public browsing experience and the account-based business workflow understandable without exposing customer records.
+## Public discovery, private administration
 
-## A fully dynamic product with private administration
+I connected the public browsing experience to account-based workflows, including inquiry access. The application includes a super admin panel for administration. I keep its source code and internal administration private; this repository shares the project story and public interface screenshots.
 
-Mohamed Abderrehmane developed this as a fully dynamic application with a super admin panel. Public pages and catalogue content form the visible product; its application source and administration remain private. The GitHub showcase documents the live experience and contains screenshots only, rather than an application distribution.
-
-This case study emphasizes catalogue organization, the continuity between listing and product detail, account entry and business-oriented navigation. It does not disclose a database schema, assert an unseen payment integration, or treat the company's marketing figures as the developer's usage metrics.
+For this project, the interesting design challenge was giving a broad engineering catalogue a clear route from discovery to product detail and account access. The listing and detail pages share the same product context, so visitors can explore without losing their place.
