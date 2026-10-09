@@ -4,7 +4,7 @@
 
 **موقع منشور · شيفرة التطبيق خاصة · مستودع توثيق وصور فقط**
 
-[الموقع المنشور](https://fujihk.net/) · [دراسة المعرض](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/ar/projects/fujihk/)
+[الموقع المنشور](https://fujihk.net/) · [دراسة المعرض](https://mohamedabderrehmane.netlify.app/ar/projects/fujihk/)
 
 ![مجموعة فوجي — Fujihk](docs/images/00-home.jpg)
 
