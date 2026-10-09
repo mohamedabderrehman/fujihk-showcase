@@ -4,7 +4,7 @@ Dynamic engineering catalogue and business platform
 
 **Live website · Private application source · Documentation and screenshots only**
 
-[Live website](https://fujihk.net/) · [Portfolio case study](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/projects/fujihk/)
+[Live website](https://fujihk.net/) · [Portfolio case study](https://mohamedabderrehmane.netlify.app/projects/fujihk/)
 
 ![FUJI Group — Fujihk](docs/images/00-home.jpg)
 
