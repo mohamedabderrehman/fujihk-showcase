@@ -1,35 +1,59 @@
-# FUJI Group — Fujihk
+# FUJI Group — Fujihk Platform
 
-Dynamic engineering catalogue and business platform
+**Engineering storefront, customer mobile app and FUJI ADMIN**
 
-**Live website · Private application source · Documentation and screenshots only**
+**Public website · Two unpublished mobile apps · Private application source**
 
-[Live website](https://fujihk.net/) · [Portfolio case study](https://mohamedabderrehmane.netlify.app/projects/fujihk/)
+[Live storefront](https://fujihk.net/) · [Portfolio case study](https://mohamedabderrehmane.netlify.app/projects/fujihk/) · [العربية](README.ar.md)
 
-![FUJI Group — Fujihk](docs/images/00-home.jpg)
+![FUJI Group public storefront](docs/images/00-home.jpg)
 
-Connect engineering product discovery with detailed catalogue information and account-based business workflows in one live website.
+FUJI is a connected product and operations platform: a public engineering catalogue, a customer shopping and services app, a staff administration app, and a private web super-admin panel. The mobile apps use Expo, React Native and TypeScript and share the platform API.
 
-## Features
+## The two mobile apps
 
-- Engineering product catalogue spanning vertical transport, energy and automation categories
-- Public search, category filters and price sorting controls
-- Product detail pages with imagery, descriptions, price, quantity and related products
-- Shopping cart and account entry points
-- Company profile and navigation to projects, inquiry, inspection and logistics
-- Fully dynamic application with a private super admin panel
+### FUJI customer app
 
-## Bringing engineering products and business workflows together
+The customer app brings product search and discovery, product details, wishlist, cart, checkout and order history into a mobile workflow. It also connects customers with company and projects information, quotation requests, inspection checklists, logistics tracking, manuals, events and support.
 
-I built Fujihk as a dynamic business website for FUJI Group. The product catalogue is central to the experience: visitors can search, filter by category, sort by price and open detailed product pages with quantities and related items. Company information, projects and operational navigation sit alongside the catalogue.
+### FUJI ADMIN
 
-## Public discovery, private administration
+The separate staff app provides a permission-aware dashboard for selected operations: product editing and bulk entry, image upload, brand/category management, customer controls, shipments, manuals, expo schedule, settings and scoped sub-admin access. Available modules depend on the signed-in administrator’s configured permissions.
 
-I connected the public browsing experience to account-based workflows, including inquiry access. The application includes a super admin panel for administration. I keep its source code and internal administration private; this repository shares the project story and public interface screenshots.
+> Neither mobile app has been published on Google Play or the Apple App Store. This is a project showcase, not a store listing or app download.
 
-For this project, the interesting design challenge was giving a broad engineering catalogue a clear route from discovery to product detail and account access. The listing and detail pages share the same product context, so visitors can explore without losing their place.
+## Web and mobile architecture
 
-## Gallery and documentation
+- Public storefront: catalogue discovery, product details, cart and customer entry points.
+- FUJI customer app: Expo/React Native client for shopping and customer services.
+- FUJI ADMIN: separate Expo/React Native client for staff operations.
+- Private web administration: broader super-admin workflows.
+- Shared API and business records connect the applications.
 
-- [Gallery](docs/gallery.md)
-- [Case study](docs/case-study.md)
+See the [architecture diagram](docs/architecture.svg), [mobile-app case study](docs/mobile-apps.md), [gallery](docs/gallery.md) and [full case study](docs/case-study.md). The source code and internal administration are private. The gallery distinguishes live website captures from source-based mobile interface preview artwork.
+
+## Public website gallery
+
+- [Home](docs/images/00-home.jpg)
+- [Catalogue](docs/images/catalogue.jpg)
+- [Product detail](docs/images/product-detail.jpg)
+
+## Mobile app interface previews
+
+The following images are labeled concept artwork based on the app layouts and workflows reviewed in the private source. They use synthetic demonstration data and are **not screenshots from a running app build**.
+
+![FUJI customer app home interface preview](docs/images/customer-app-home.jpg)
+
+![FUJI customer app product detail interface preview](docs/images/customer-app-product.jpg)
+
+![FUJI ADMIN dashboard interface preview](docs/images/fuji-admin-dashboard.jpg)
+
+![FUJI ADMIN product management interface preview](docs/images/fuji-admin-products.jpg)
+
+## Status and scope
+
+The public website is available at [fujihk.net](https://fujihk.net/). Both mobile apps are showcase-only at this time and do not have public installation links. Website images show the public storefront; mobile images are clearly labeled source-based preview artwork. Private customer, staff, order and admin records are not included.
+
+## License and attribution
+
+This repository is a documentation-only case study under the included MIT license. FUJI Group names, marks and product imagery remain their respective owners’ property. See [third-party notices](THIRD_PARTY_NOTICES.md).

@@ -26,5 +26,33 @@
     "scope": "Live public website capture",
     "review_date": "2026-10-07",
     "site": "https://fujihk.net/"
+  },
+  {
+    "path": "docs/images/customer-app-home.jpg",
+    "sha256": "ba8b77a6d8749622fe82745d40a60b6a47fd7e9be68c59c0bf6c2c51b014c7f5",
+    "scope": "Source-based interface preview artwork with synthetic data; not a runtime capture",
+    "review_date": "2026-10-12",
+    "application": "FUJI customer app"
+  },
+  {
+    "path": "docs/images/customer-app-product.jpg",
+    "sha256": "fad517ef81f694c572e283b80379c2efc55565cd43a3cfc295e6950406b444a6",
+    "scope": "Source-based interface preview artwork with synthetic data; not a runtime capture",
+    "review_date": "2026-10-12",
+    "application": "FUJI customer app"
+  },
+  {
+    "path": "docs/images/fuji-admin-dashboard.jpg",
+    "sha256": "27713e1c7e98afe948c6560edd61181a74d1f9ac46d7dac8caf16fe7bc64b6a4",
+    "scope": "Source-based interface preview artwork with synthetic data; not a runtime capture",
+    "review_date": "2026-10-12",
+    "application": "FUJI ADMIN"
+  },
+  {
+    "path": "docs/images/fuji-admin-products.jpg",
+    "sha256": "ce0d9f43e336752da24541e36b42d1263faf5f56f0eb7f3e6e6fb1a70dcea39d",
+    "scope": "Source-based interface preview artwork with synthetic data; not a runtime capture",
+    "review_date": "2026-10-12",
+    "application": "FUJI ADMIN"
   }
 ]
